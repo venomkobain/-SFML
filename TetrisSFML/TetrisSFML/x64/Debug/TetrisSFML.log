@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(50,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(72,65): warning C4305: =: усечение из "double" в "float"
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(126,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(137,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(137,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(145,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\VNMKBN\source\repos\TetrisSFML\TetrisSFML\Main.cpp(145,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  TetrisSFML.vcxproj -> C:\Users\VNMKBN\source\repos\TetrisSFML\x64\Debug\TetrisSFML.exe
